@@ -17,7 +17,7 @@ An IPython notebook widget to upload files, using FileReader_.
 
 Installation
 ------------
-
+#pip3 for python3 
 Install using pip::
 
     pip install fileupload
